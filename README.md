@@ -5,7 +5,7 @@ This microservice performs basic arithmetic operations (add, subtract, multiply,
 
 ## Setup Instructions
 ```bash
-git clone https://github.com/yourusername/sit737-2025-prac4p.git
+git clone https://github.com/Dharani4432/sit737-2025-prac4p
 cd sit737-2025-prac4p
 npm install
 node index.js
