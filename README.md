@@ -5,7 +5,7 @@ A simple calculator microservice built using Node.js and Express, providing four
 
 **Prerequisites**
 
-Node.js (v18+ recommended)
+Node.js
 
 Git
 
